@@ -1,8 +1,8 @@
 {
   "metadata": {
     "name": "binary_symbols",
-    "lastOpened": 1501817468691,
-    "created": 1501743711546
+    "lastOpened": 0,
+    "created": 1503387320247
   },
   "iconSets": [
     {
@@ -54,13 +54,21 @@
           "prevSize": 32,
           "code": 36,
           "tempChar": ""
+        },
+        {
+          "order": 8,
+          "id": 6,
+          "name": "LTC",
+          "prevSize": 32,
+          "code": 76,
+          "tempChar": ""
         }
       ],
       "id": 0,
       "metadata": {
         "name": "Symbols",
         "importSize": {
-          "width": 151,
+          "width": 127,
           "height": 172
         }
       },
@@ -161,6 +169,22 @@
           "grid": 0,
           "tags": [
             "USD"
+          ]
+        },
+        {
+          "id": 6,
+          "paths": [
+            "M239.611 640.441l-43.020 247.559h443.136l14.456-81.093h-346.038l42.159-242.316 245.609-168.283 23.906-118.799-249.589 172.485 54.632-313.978h-97.614l-67.874 390.595-135.71 93.787-20.823 113.758 136.744-93.693z"
+          ],
+          "attrs": [
+            {}
+          ],
+          "width": 756,
+          "isMulticolor": false,
+          "isMulticolor2": false,
+          "grid": 0,
+          "tags": [
+            "LTC"
           ]
         }
       ],

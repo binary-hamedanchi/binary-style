@@ -32,4 +32,7 @@
     &.btc:before {
         content: '\0042';
     }
+    &.ltc:before {
+        content: '\004c';
+    }
 }
